@@ -10,6 +10,7 @@ build-backend = "setuptools.build_meta"
 name = "intent-drift-skill"
 version = "1.0.0"
 description = "Intent drift analyzer skill for Claude Code agents"
+license = "Apache-2.0"
 requires-python = ">=3.10"
 dependencies = [
     "intent-drift>=0.1.0",

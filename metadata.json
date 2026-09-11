@@ -5,7 +5,7 @@
   "type": "analysis",
   "category": "code-quality",
   "author": "Intent Alignment Engine Team",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "parameters": {
     "original_goal": {
       "type": "string",

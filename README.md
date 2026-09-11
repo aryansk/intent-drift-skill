@@ -246,7 +246,7 @@ the "up for grabs" backlog, and what is explicitly out of scope.
 
 ## 📄 License
 
-MIT License - see LICENSE file for details.
+Apache-2.0 License - see LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
